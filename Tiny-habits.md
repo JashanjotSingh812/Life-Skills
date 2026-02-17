@@ -1,7 +1,6 @@
 # Tiny Habits
 
 ---
-
 ### Question 1  
 **In this video, what was the most interesting story or idea for you?**
 
